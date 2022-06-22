@@ -6,6 +6,8 @@
 
 ## Feel free to interact with me on [LinkedIn](https://www.linkedin.com/in/anthonylovern/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amlovern&show_icons=true&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Amlovern/Amlovern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
